@@ -1,10 +1,10 @@
 ; Copyright © Microsoft Corp.
 
 [Theme]
-UnmanagedOriginalName=catppuccin_code_light
+UnmanagedOriginalName=rust_light
 ; Windows - IDS_THEME_DISPLAYNAME_AERO_LIGHT
-DisplayName=rust_dark
-ThemeId={81AEAA6D-F631-4DBF-A2EE-402B5203B69B}
+DisplayName=rust_light_short
+ThemeId={C9C3DFCD-A636-4494-9503-E6C5DC6E6A35}
 
 ; Computer - SHIDI_SERVER
 [CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\DefaultIcon]
@@ -42,11 +42,11 @@ Wait=%SystemRoot%\cursors\aero_busy.ani
 DefaultValue=Windows Default
 
 [Control Panel\Desktop]
-Wallpaper=%USERPROFILE%\OneDrive\Documents\Wallpapers\rust_wallpaper_dark.png
+Wallpaper=%USERPROFILE%\OneDrive\Documents\Wallpapers\rust_code_light.png
 Pattern=
 MultimonBackgrounds=0
 PicturePosition=4
-WallpaperWriteTime=133458762184877203
+WallpaperWriteTime=133459153092127309
 WindowsSpotlight=0
 
 [VisualStyles]
@@ -54,9 +54,9 @@ Path=%SystemRoot%\resources\themes\Aero\Aero.msstyles
 ColorStyle=NormalColor
 Size=NormalSize
 AutoColorization=0
-ColorizationColor=0XC4CA9EE6
-SystemMode=Dark
-AppMode=Dark
+ColorizationColor=0XC48839EF
+SystemMode=Light
+AppMode=Light
 VisualStyleVersion=10
 
 [boot]
@@ -71,7 +71,7 @@ SchemeName=@mmres.dll,-800
 
 [Control Panel\Colors]
 Scrollbar=200 200 200
-Background=48 52 70
+Background=239 241 245
 ActiveTitle=153 180 209
 InactiveTitle=191 205 219
 Menu=240 240 240
@@ -93,7 +93,7 @@ InactiveTitleText=0 0 0
 ButtonHilight=255 255 255
 ButtonDkShadow=105 105 105
 ButtonLight=227 227 227
-InfoText=1 0 1
+InfoText=0 0 1
 InfoWindow=255 255 225
 ButtonAlternateFace=0 0 0
 HotTrackingColor=0 102 204

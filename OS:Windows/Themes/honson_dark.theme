@@ -42,7 +42,7 @@ Wait=%SystemRoot%\cursors\aero_busy.ani
 DefaultValue=Windows Default
 
 [Control Panel\Desktop]
-Wallpaper=%USERPROFILE%\OneDrive\Documents\Wallpapers\rust_wallpaper_dark_short.png
+Wallpaper=%USERPROFILE%\OneDrive\Documents\Wallpapers\rust_code_dark.png
 Pattern=
 MultimonBackgrounds=0
 PicturePosition=4
