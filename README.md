@@ -1,5 +1,8 @@
 # DOTFILES
 
-Whilst similar in idea, this repo is not specifically for "dotfiles", but rather, cloud storage for my personal
-configuration files, scripts and other assets. Anything and everything needed for my setup is found here OR is tightly
-bound to the setup of my [Neovim](https://github.com/HonsonCooky/cookie-nvim) configuration.
+HonsonCooky's theme and profile setup. These files may require manual installation, but they will usually come with a
+nested README.md file to instruct you on how / where to install the theme.
+
+## TODO:
+
+Automate installation process
